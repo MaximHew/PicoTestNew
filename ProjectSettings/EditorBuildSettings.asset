@@ -7,28 +7,28 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/Intro.unity
-    guid: f728ef6b9d28a664b8c3527c491bf1f1
+    guid: d62d8747c8274c24eba6e222de88f730
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
-    guid: eb7fee7b9d3e0a94dbc998f2b6ca48af
+    guid: b6910292c6dc410469abfb08ac901d79
   - enabled: 1
     path: Assets/Scenes/Assessment.unity
-    guid: 4190f0d4ce4dd6e448131d3fa888ee1e
-  - enabled: 1
-    path: Assets/Scenes/Result.unity
-    guid: 60bf2e420cf697745ada81500a2fa45f
-  - enabled: 1
-    path: Assets/Scenes/Learn.unity
-    guid: 8ad5976c96928ae42a400c004280ad9c
+    guid: 225e69eb28a6b6044bb08c0b9cecbc0b
   - enabled: 1
     path: Assets/Scenes/PersonalityType.unity
-    guid: 3d05397e2b8a82e48a944ac2a2316c24
+    guid: 96761bb733147a44bada1879a1b4ce57
+  - enabled: 1
+    path: Assets/Scenes/Learn.unity
+    guid: d5b54c2f173cd4c4ab286e23bcf5a2e9
+  - enabled: 1
+    path: Assets/Scenes/Result.unity
+    guid: de723f67e7424b040806634b89cfd88f
   - enabled: 1
     path: Assets/Scenes/Credit.unity
-    guid: 071ac28fb193d984780e5a4cf12bbf9e
+    guid: c5eadc29636e4944a8ff084c5c4b74f0
   - enabled: 1
     path: Assets/Scenes/Settings.unity
-    guid: 217dbb87ba9b8bd4ba76ffc33f809a78
+    guid: 1b239e51c54bc4940a2d52237607a3f6
   m_configObjects:
-    Unity.XR.PXR.Settings: {fileID: 11400000, guid: b44dd08ba50a0a44195276afcd3b90d1, type: 2}
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: 3dfba93f75971a647a98743156d52edc, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f20e4ae86b5d67241ae7a805a3e81647, type: 2}
